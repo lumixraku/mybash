@@ -3,7 +3,7 @@ set -Ux CONSUL_HTTP_HOST 10.8.160.227
 
 #GO
 set -xg GOBIN ~/go/bin
-set -xg GOPAT ~/go
+set -xg GOPATH ~/go
 set -Ux GO111MODULE auto
 
 
